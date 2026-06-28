@@ -20,17 +20,4 @@ A clean, responsive, and lightweight financial tracking dashboard built to manag
 
 *   **Frontend:** Vanilla JavaScript (ES6+), HTML5, CSS3
 *   **Libraries:** Chart.js (Data visualization), jsPDF (PDF reporting)
-*   **API Used:** Frankfurter API (Live Currency Conversions)
-
----
-
-## 📂 Project Structure
-
-```text
-prodesk-cash-flow/
-│
-├── cash-flow/
-│   ├── index.html    # Layout and structural markup
-│   ├── style.css     # UI elements, theme, and responsiveness
-│   └── app.js        # Core logical handler, local storage, API calls, and PDF generation
-└── README.md         # Documentation
+*   **API Used:** Frankfurter API (Live Currency Conversions).
